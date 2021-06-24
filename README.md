@@ -16,7 +16,7 @@ Los usuarios además, tienen un rango, que se obtiene cuando sus comentarios son
 Los Administradores pueden dar de baja a una Categoría o tema, mientras que los Moderadores pueden dar de baja solo a los temas. 
 
 
-## Modelo de Dominio
+## Modelo de Datos
 ![image](https://user-images.githubusercontent.com/81774927/123326864-1eed6700-d510-11eb-983c-13141da3c7ce.png)
 
 
