@@ -24,9 +24,9 @@ Los Administradores pueden dar de baja a una Categoría o tema, mientras que los
 
 |Requerimiento|cant. mín.<br>1 o 2 integ|cant. máx.<br>3 o 4 integ|Detalle/Listado de casos incluidos|
 |:-|-:|-:|:-|
-|ABMC simple|1 x integ|1 x integ|Insertar Categoria, Hacer comentario, Crear Tema, Borrar Categoria
-|ABMC dependiente|1|2| Insertar usuario, Obtener Rango
-|CU NO-ABMC|1|2| Validar Administrador, Verificar Baneo
+|ABMC simple|1 x integ|1 x integ|Grupo, Categoría, Tipo_Usuario
+|ABMC dependiente|1|2| Usuario, Tema 
+|CU NO-ABMC|1|2| Hacer comentario+like/dislike
 |Listado simple|1|3(*)| Listar usuarios
 |Listado complejo|0|1(*)| Listar usuarios con rango 
 
@@ -35,8 +35,8 @@ Los Administradores pueden dar de baja a una Categoría o tema, mientras que los
 
 |Requerimiento|cant. mín.<br>1 o 2 integ|cant. máx.<br>3 o 4 integ|Detalle/Listado de casos incluidos|
 |:-|-:|-:|:-|
-|ABMC|todos|todos| Insertar Categoria, Hacer comentario, Crear Tema, Borrar Categoria, Insertar usuario, Obtener Rango
-|CU "Complejo"(nivel resumen)|1|2| Validar Administrador, Verificar Baneo
+|ABMC|todos|todos| 
+|CU "Complejo"(nivel resumen)|1|2| Comentar+like/dislike+denuncias+baneo+descargo+rehabilitar acceso
 |Listado complejo|1|2| Listar usuarios con rango, Listar usuarios baneados
 |Nivel de acceso|2|2| Usuario, Moderador, Administrador, Invitado(no esta logueado)
 |Manejo de errores|obligatorio|obligatorio|no requiere detalle|
