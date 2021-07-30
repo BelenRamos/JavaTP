@@ -30,7 +30,7 @@ Los Administradores pueden dar de baja a una Categoría o tema, mientras que los
 |ABMC dependiente|1|2| Usuario, Tema |
 |CU NO-ABMC|1|2| Hacer comentario+like/dislike|
 |Listado simple|1|3(*)| Listar usuarios|
-|Listado complejo|0|1(*)| Listar usuarios con rango |
+|Listado complejo|0|1(*)| Listar usuarios por rango |
 
 
 ## Aprobación Directa
@@ -39,7 +39,7 @@ Los Administradores pueden dar de baja a una Categoría o tema, mientras que los
 |:-|-:|-:|:-|
 |ABMC|todos|todos| 
 |CU "Complejo"(nivel resumen)|1|2| Comentar+like/dislike+denuncias+baneo+descargo+rehabilitar acceso|
-|Listado complejo|1|2| Listar usuarios con rango, Listar usuarios baneados|
+|Listado complejo|1|2| Listar usuarios por rango, Listar usuarios baneados|
 |Nivel de acceso|2|2| Usuario, Moderador, Administrador, Invitado(no esta logueado)|
 |Manejo de errores|obligatorio|obligatorio|no requiere detalle|
 |requerimiento extra obligatorio (**)|0|1| Manejo de archivos, Envio de Mails|
