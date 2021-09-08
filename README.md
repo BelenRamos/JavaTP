@@ -3,8 +3,6 @@
 
 ## Integrantes
 
-#### Alan Holtz
-#### Marcos Martel
 #### Belen Ramos
 #### Manuel Velasco
 
