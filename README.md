@@ -15,7 +15,7 @@ Los Administradores pueden dar de baja a una Categoría o tema, mientras que los
 
 
 ## Modelo de Datos
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/81774927/124818758-cbccd880-df41-11eb-8258-cc228c2b92aa.jpg)
+![Untitled Diagram (1)](https://app.diagrams.net/#G1XAKOrN9lNVhB9ZMdQvowJ37i69XcCes0)
 
 
 
